@@ -5,21 +5,6 @@ file = ".nojekyll"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
-file = "bsl-shaders.pw.toml"
-hash = "4a5ea44fb3e87c430dbb19df9587ec93bd189ea1a12a15ed190dde3cf5a5cf13"
-metafile = true
-
-[[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
-metafile = true
-
-[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "b066928d8192c178df0e5992a61063f8bf3ddee90c35d2bbfb078f558b9ec40d"
 
@@ -17404,11 +17389,6 @@ file = "kubejs/startup_scripts/update_checker.js"
 hash = "11587fec0524af7aeea3d11d03e06360506f329ca311682468650588cc0a8f6c"
 
 [[files]]
-file = "makeup-ultra-fast-shader.pw.toml"
-hash = "a9dca058c0fd17f9cf753e100b0f150e492baa03b45069317b34aa94fa015df2"
-metafile = true
-
-[[files]]
 file = "mods/BetterBrightnessSliderRespawn-1.1-1.21.1-NeoForge.jar"
 hash = "08ff1ef6dcfb21ef64279202f83a6296285d6e8b9100ea9b91ebff828b36474c"
 
@@ -20091,3 +20071,35 @@ hash = "8f55e1bd5943f30e7ca895d1f4a01f3b417ecd4aeefec02e642c6d824bdbb65e"
 [[files]]
 file = "servers.dat"
 hash = "40d81b635538b832a37eec989177f927899f102768f5e1c77e0e05dfc6375915"
+
+[[files]]
+file = "shaderpacks/BSL_v10.1.1 + Clrwl_1.0.5.zip"
+hash = "e97d7b0d508186882da911146d8319db398b2ac0032d494505fc7df94f74c552"
+
+[[files]]
+file = "shaderpacks/BSL_v10.1.1.zip"
+hash = "131ca6b56b100e60577ffdb0dd51bfab2ee6e334564eeee324e5422026891668"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.zip"
+hash = "b37faf24ca464e5bebbaa2bcca1ca64544d4ee597342ccaa87077769e0f2150a"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
+hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6.zip"
+hash = "a3aeb6aa5fa248df7dc46c2862041e94fd8ec5ef3d104ac898143797b67fb978"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.7.1.zip"
+hash = "5cbf4d99bc7ce4f0df5c15974d276e0949bf6974d48d88a77d5e307b0b9be8af"
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-9.5a.zip"
+hash = "433e1edd5d1193ccf4f59c9202a00896820777e73ac10b109b8ee307847fc775"
+
+[[files]]
+file = "shaderpacks/photon_v1.3b.zip"
+hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
