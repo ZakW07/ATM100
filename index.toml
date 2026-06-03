@@ -5,6 +5,10 @@ file = ".nojekyll"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
+file = ".voxy/saves/put_voxy_data_here.txt"
+hash = "7afca7bde962ab3d7169671f0cfc361c3277a1e7c776fd4b5a2acc3a31b05f4c"
+
+[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "b066928d8192c178df0e5992a61063f8bf3ddee90c35d2bbfb078f558b9ec40d"
 
