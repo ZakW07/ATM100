@@ -20087,3 +20087,7 @@ metafile = true
 [[files]]
 file = "resourcepacks/Icon Xaero's 1.22.zip"
 hash = "8f55e1bd5943f30e7ca895d1f4a01f3b417ecd4aeefec02e642c6d824bdbb65e"
+
+[[files]]
+file = "servers.dat"
+hash = "40d81b635538b832a37eec989177f927899f102768f5e1c77e0e05dfc6375915"
