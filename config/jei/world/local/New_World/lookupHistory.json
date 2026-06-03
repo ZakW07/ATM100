@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"simplymore:the_blood_harvester"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_things_and_misc:vibration_mechanism"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
