@@ -324,10 +324,6 @@ file = "config/allthewizardgear-server.toml"
 hash = "210d33ab48e553ff416ed82cb8f348b651d1c8cb46609e49da6bdee42d49d306"
 
 [[files]]
-file = "config/almostunified/debug.json"
-hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
-
-[[files]]
 file = "config/almostunified/duplicates.json"
 hash = "327596d4c16505556a15d747d7948de37505c825017f0583cab13573907c06a0"
 
