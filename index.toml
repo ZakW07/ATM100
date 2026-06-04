@@ -17454,6 +17454,11 @@ hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
 
 [[files]]
+file = "mods/aces-spell-utils.pw.toml"
+hash = "cd38c6ff0a1cd02fd2ed08d1238313cb67b8edb4fc933577ccd4297be6c4663f"
+metafile = true
+
+[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "34d1cc38be069139fbdc034100876673b8bfcc951d707099c44ec05398de1ecc"
 metafile = true
@@ -17707,6 +17712,11 @@ hash = "22523481b7a5b3be8e086462d6598a209d5ccdd3fea0c6a2c6384e9aa92b40ec"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "c6bfded13163365cb14a56c707a91271dec8b6317708a2c4cca4564b71693399"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "91c5f289f65efc2e79d2f8592bb5e8fc3784e6b90ebbc0f036c57b4cbbf06c75"
 metafile = true
@@ -17729,6 +17739,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
 metafile = true
 
 [[files]]
@@ -17831,6 +17846,11 @@ hash = "ad69537be8be8b433227792e43f8df7b4d3cef7e359255d471a44e776ad8dd57"
 [[files]]
 file = "mods/cat-jammies.pw.toml"
 hash = "e2c769261640c924e8f6e24e02f931f5163206e75bfcdb5d5233a7ee8dd335f2"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "d297223abd52c7942e55d0e9b44b0ef5dd3dae908f58bd3ca47696a08cac8296"
 metafile = true
 
 [[files]]
@@ -18741,6 +18761,11 @@ hash = "39204787792da3c753c868898f8354d4aa8c73897cda78c178af1d9b2e073abb"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "bd32e04cd6e5d26494f8393a5e4d8ee180700cc117f5f2920ce59b6ce7fb3c7d"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
@@ -18871,6 +18896,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "1b78273918bdbfe66d38f35b6ec2fbaa7e862fb9dca67cc99a725df768365e96"
+metafile = true
+
+[[files]]
+file = "mods/loading-protection.pw.toml"
+hash = "c39179fe954c9181445a9ecc4e63bfd702d37ff14d87c366e17db4c488ad3f0c"
 metafile = true
 
 [[files]]
@@ -19312,7 +19342,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
@@ -19839,6 +19869,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "b4839b51f328fbd3af8addab6905f444a425ffd8d540966766bbe2947528cba8"
+metafile = true
+
+[[files]]
+file = "mods/to-tweaks-irons-spells.pw.toml"
+hash = "ac467acc6a07a1fffa874c6ee7027734c8d57a21054735a1d31aeaada75b855d"
 metafile = true
 
 [[files]]
