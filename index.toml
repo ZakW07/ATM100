@@ -18058,7 +18058,7 @@ hash = "ed25425e13bd21c9fb88a4644210e5dab1f8257ccf2158330db0dd068edb9034"
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -18261,6 +18261,11 @@ hash = "09c759befad14bde21953bd643d5f98ba6a70b14a42a297594d8cc35309bc0e0"
 [[files]]
 file = "mods/elytraslot-neoforge-9.0.2+1.21.1.jar"
 hash = "d86adf384390c40b144a296ef4fc11b72fd81e2780b264bd9ceb7b5ab9147399"
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
@@ -19706,32 +19711,32 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "c966ea02eb59f31dcaeaebe9d96c9b232a2fb16d2fe971729350e567a4ff1bd7"
+hash = "98894c50922dfad36e4313d798d4497a61c42ce855b44fd63aea79b4990cac5d"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e5c93ef7ac08fe360c200c41618ccbe02ed1288db03a14ee0e8c88d59dc14ce0"
+hash = "e9ca3f83a9ab1bf8e2b1bd00ee727aeffa5c0ec74f63a058048e73550e16c44f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "7f7ef360ee12ecfcf5597534a8cb16bb25604ef0fee11aecd6456d03781642a9"
+hash = "a31a07b5755fc9d05785ed841d8276c05c1c504ff052ee5d898af5f706dc394b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-create-integration.pw.toml"
-hash = "c66a21cc5dcab2ba241b47c42544cf0ca1bccdf8e6605c6d332837fb2dbe98ca"
+hash = "8f9cfa61518cb3f9a1bca32ff2a50d39bb5dc33041a34cbe292462f6cefa3069"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-in-motion.pw.toml"
-hash = "43e5e05eb2119ccef91612e634a6d5bd5d4508167c742a0a70fadbb0503f90d6"
+hash = "b11920d6e24a4d81eae1f90b04c720a244774beddf36af9afdbff80954efc344"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "8846dbb6023f6faf35766fb04a342ce0974390eaa0a05402397a4d2d8478831f"
+hash = "1e0a3022cf327a4ecbcf9469cb0b6a895503ce77303d7c1d8f4595f97d094227"
 metafile = true
 
 [[files]]
@@ -19869,6 +19874,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "b4839b51f328fbd3af8addab6905f444a425ffd8d540966766bbe2947528cba8"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "b28cc434de3932e66c46ed31a8e28d5ea1e28ad1b77f0a9bfa863cfc71c51071"
 metafile = true
 
 [[files]]
