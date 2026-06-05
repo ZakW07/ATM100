@@ -18776,11 +18776,6 @@ hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
-metafile = true
-
-[[files]]
 file = "mods/jonns-trophies.pw.toml"
 hash = "5f8d47470d3b79214a2800e8aff6e9cacabed303300dae5e5a13465f4abb9ebc"
 metafile = true
