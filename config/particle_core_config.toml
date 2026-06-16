@@ -1,0 +1,12 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+disableParticles = false
+byTypeReductions = { "minecraft:campfire_cosy_smoke" = 0.05, "minecraft:campfire_signal_smoke" = 0.05, "minecraft:splash" = 0.1, "minecraft:smoke" = 0.1, "minecraft:flame" = 0.1 }
+maxParticlesPerSheet = 16384
+particleRenderDistanceMultiplier = 0.49542125385784697
+asynchronousTicking = true
+reduceAllChance = 0.0
+reduceDecreasedChance = 0.0
+turnOffPotionParticlesV2 = [
+    "MOBS"
+]

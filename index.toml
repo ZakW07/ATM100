@@ -7545,6 +7545,14 @@ file = "config/pamhc2trees.toml"
 hash = "415efc66a48e936d7d93f0d2c394559054bbff0aebae28f9d1731a1e08551a72"
 
 [[files]]
+file = "config/particle_core_config.toml"
+hash = "32afd8380e5daaf41aa7ac279ebda4b96b129eec61ad71f1d97419ea34feb9d0"
+
+[[files]]
+file = "config/particle_core_disabled_optimizations_v2.json"
+hash = "7189bb61c58cb1030b8ee486e66abf694d257192248b9b3ac4978df2b1366f7d"
+
+[[files]]
 file = "config/patchouli-client.toml"
 hash = "af6a2ac2c40095993ccdc76bb8c74dd72ed4dd216276e39f5e835a87c1ab6e27"
 
@@ -18545,7 +18553,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
@@ -18837,7 +18845,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
@@ -19319,6 +19327,11 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft-2-trees.pw.toml"
 hash = "d48697a0d75267fe97428fa6b8442ec419846d7396e2dc9b4dd2c90e13f17daa"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
